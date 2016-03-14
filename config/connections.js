@@ -37,7 +37,7 @@ module.exports.connections = {
   * MySQL is the world's most popular relational database.                   *
   * http://en.wikipedia.org/wiki/MySQL                                       *
   *                                                                          *
-  * Run: npm install sails-mysql                                             *
+  * Run: npm install sails-mysql --save                                      *
   *                                                                          *
   ***************************************************************************/
   someMysqlServer: {
